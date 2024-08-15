@@ -1,0 +1,16 @@
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\bin\Debug\net8.0-windows\areaYperimetro.exe
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\bin\Debug\net8.0-windows\areaYperimetro.deps.json
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\bin\Debug\net8.0-windows\areaYperimetro.runtimeconfig.json
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\bin\Debug\net8.0-windows\areaYperimetro.dll
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\bin\Debug\net8.0-windows\areaYperimetro.pdb
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\areaYperimetro.Form1.resources
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\areaYperimetro.csproj.GenerateResource.cache
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\areaYperimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\areaYperimetro.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\areaYperimetro.AssemblyInfo.cs
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\areaYperimetro.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\areaYperimetro.dll
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\refint\areaYperimetro.dll
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\areaYperimetro.pdb
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\areaYperimetro.genruntimeconfig.cache
+C:\Users\aleja\source\repos\areaYperimetro\areaYperimetro\obj\Debug\net8.0-windows\ref\areaYperimetro.dll
